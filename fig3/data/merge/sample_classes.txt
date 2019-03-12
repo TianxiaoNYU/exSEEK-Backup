@@ -1,0 +1,489 @@
+sample_id	label
+17402567-B	Colorectal Cancer Stage 1
+249136-B	Colorectal Cancer Stage 1
+385247-B	Colorectal Cancer Stage 1
+497411-B	Colorectal Cancer Stage 1
+498221-B	Colorectal Cancer Stage 1
+507450-B	Colorectal Cancer Stage 1
+507511-B	Colorectal Cancer Stage 1
+507867-B	Colorectal Cancer Stage 1
+507887-B	Colorectal Cancer Stage 1
+508877-B	Colorectal Cancer Stage 1
+508897-B	Colorectal Cancer Stage 1
+515058-B	Colorectal Cancer Stage 1
+6474170-B	Colorectal Cancer Stage 1
+8397116-B	Colorectal Cancer Stage 1
+SH327409-B	Colorectal Cancer Stage 1
+SH327428-B	Colorectal Cancer Stage 1
+3497470-B	Colorectal Cancer Stage 2
+497497-B	Colorectal Cancer Stage 2
+498127-B	Colorectal Cancer Stage 2
+498187-B	Colorectal Cancer Stage 2
+507468-B	Colorectal Cancer Stage 2
+507599-B	Colorectal Cancer Stage 2
+507909-B	Colorectal Cancer Stage 2
+511485-B	Colorectal Cancer Stage 2
+515292-B	Colorectal Cancer Stage 2
+SH327412-B	Colorectal Cancer Stage 2
+423976-B	Colorectal Cancer Stage 3
+511030-B	Colorectal Cancer Stage 3
+5474594-B	Colorectal Cancer Stage 3
+SH325716-B	Colorectal Cancer Stage 3
+CXD	Healthy Control
+LY	Healthy Control
+Normal-1	Healthy Control
+Normal-2	Healthy Control
+Normal-3	Healthy Control
+Normal-4	Healthy Control
+Normal-5	Healthy Control
+Normal-6	Healthy Control
+Normal-7	Healthy Control
+Normal-8	Healthy Control
+mix1_combined_R1	Healthy Control
+mix2_combined_R1	Healthy Control
+mix3_combined_R1	Healthy Control
+4N_A_Lab5	Healthy Control
+4N_B_Lab2	Healthy Control
+4N_B_Lab4	Healthy Control
+4N_B_Lab5	Healthy Control
+4N_B_Lab6	Healthy Control
+4N_C_Lab6	Healthy Control
+4N_D_Lab1	Healthy Control
+4N_Xu_Lab5	Healthy Control
+CleanTag_Lab5	Healthy Control
+NEBNext_Lab1	Healthy Control
+NEBNext_Lab2	Healthy Control
+NEBNext_Lab3	Healthy Control
+NEBNext_Lab4	Healthy Control
+NEBNext_Lab5	Healthy Control
+TruSeq_Lab1	Healthy Control
+TruSeq_Lab2	Healthy Control
+TruSeq_Lab3	Healthy Control
+TruSeq_Lab4	Healthy Control
+TruSeq_Lab5	Healthy Control
+TruSeq_Lab6	Healthy Control
+SRR1044425	Healthy Control
+SRR1044427	Healthy Control
+SRR1044429	Healthy Control
+SRR1044431	Healthy Control
+SRR1044433	Healthy Control
+SRR1044434	Healthy Control
+SRR1044435	Healthy Control
+SRR1044436	Healthy Control
+SRR1044437	Healthy Control
+SRR1044438	Healthy Control
+SRR1044439	Healthy Control
+SRR1044440	Healthy Control
+SRR1044441	Healthy Control
+SRR1044442	Healthy Control
+SRR1044443	Healthy Control
+SRR1044444	Healthy Control
+SRR1044445	Healthy Control
+SRR7101178	Healthy Control
+SRR7101180	Healthy Control
+SRR7101181	Healthy Control
+SRR7101184	Healthy Control
+SRR7101187	Healthy Control
+SRR7101189	Healthy Control
+SRR7101190	Healthy Control
+SRR7101191	Healthy Control
+SRR7101193	Healthy Control
+SRR7101194	Healthy Control
+SRR7101195	Healthy Control
+SRR7101196	Healthy Control
+SRR7101197	Healthy Control
+SRR7101198	Healthy Control
+SRR7101201	Healthy Control
+SRR7101203	Healthy Control
+SRR7101205	Healthy Control
+SRR7101206	Healthy Control
+SRR7101207	Healthy Control
+SRR7101208	Healthy Control
+SRR7101209	Healthy Control
+SRR7101210	Healthy Control
+SRR7101211	Healthy Control
+SRR7101212	Healthy Control
+SRR7101213	Healthy Control
+SRR7101214	Healthy Control
+SRR7101215	Healthy Control
+SRR7101216	Healthy Control
+SRR7101218	Healthy Control
+SRR7101219	Healthy Control
+SRR7101220	Healthy Control
+SRR7101221	Healthy Control
+SRR7101222	Healthy Control
+SRR7101223	Healthy Control
+SRR7101224	Healthy Control
+SRR7101225	Healthy Control
+SRR7101227	Healthy Control
+SRR7101230	Healthy Control
+SRR7101231	Healthy Control
+SRR7101232	Healthy Control
+SRR7101233	Healthy Control
+SRR7101235	Healthy Control
+SRR7101237	Healthy Control
+SRR7101238	Healthy Control
+SRR7101241	Healthy Control
+SRR7101242	Healthy Control
+SRR7101243	Healthy Control
+SRR7101245	Healthy Control
+SRR7101247	Healthy Control
+SRR7101248	Healthy Control
+SRR7101249	Healthy Control
+SRR7101250	Healthy Control
+SRR7101251	Healthy Control
+SRR7101252	Healthy Control
+SRR7101253	Healthy Control
+SRR7101254	Healthy Control
+SRR7101255	Healthy Control
+SRR7101257	Healthy Control
+SRR7101259	Healthy Control
+SRR7101260	Healthy Control
+SRR7101261	Healthy Control
+SRR7101263	Healthy Control
+SRR7101264	Healthy Control
+SRR7101265	Healthy Control
+SRR7101266	Healthy Control
+SRR7101268	Healthy Control
+SRR7101273	Healthy Control
+SRR7101274	Healthy Control
+SRR7101276	Healthy Control
+SRR7101277	Healthy Control
+SRR7101279	Healthy Control
+SRR7101280	Healthy Control
+SRR7101281	Healthy Control
+SRR7101282	Healthy Control
+SRR7101283	Healthy Control
+SRR7101284	Healthy Control
+SRR7101285	Healthy Control
+SRR7101286	Healthy Control
+SRR7101287	Healthy Control
+SRR7101288	Healthy Control
+SRR7101289	Healthy Control
+SRR7101290	Healthy Control
+SRR7101291	Healthy Control
+SRR7101293	Healthy Control
+SRR7101294	Healthy Control
+SRR7101295	Healthy Control
+SRR7101296	Healthy Control
+SRR7101297	Healthy Control
+SRR7101298	Healthy Control
+SRR7101300	Healthy Control
+SRR7101304	Healthy Control
+SRR7101306	Healthy Control
+SRR7101307	Healthy Control
+SRR7101308	Healthy Control
+SRR7101309	Healthy Control
+SRR7101310	Healthy Control
+SRR7101311	Healthy Control
+SRR7101312	Healthy Control
+SRR7101313	Healthy Control
+SRR7101314	Healthy Control
+SRR7101315	Healthy Control
+SRR7101316	Healthy Control
+SRR7101318	Healthy Control
+SRR7101319	Healthy Control
+SRR7101322	Healthy Control
+SRR7101323	Healthy Control
+SRR7101325	Healthy Control
+SRR7101326	Healthy Control
+SRR7101327	Healthy Control
+SRR7101328	Healthy Control
+SRR7101329	Healthy Control
+SRR7101331	Healthy Control
+SRR7101332	Healthy Control
+SRR7101333	Healthy Control
+SRR7101334	Healthy Control
+SRR7101337	Healthy Control
+SRR7101339	Healthy Control
+SRR7101341	Healthy Control
+SRR7101342	Healthy Control
+SRR7101344	Healthy Control
+SRR7101345	Healthy Control
+SRR7101346	Healthy Control
+SRR7101347	Healthy Control
+SRR7101348	Healthy Control
+SRR7101352	Healthy Control
+SRR7101353	Healthy Control
+SRR7101354	Healthy Control
+SRR7101356	Healthy Control
+SRR7101358	Healthy Control
+SRR7101359	Healthy Control
+SRR7101361	Healthy Control
+SRR7101362	Healthy Control
+SRR7101363	Healthy Control
+SRR7101365	Healthy Control
+SRR7101366	Healthy Control
+SRR7101367	Healthy Control
+SRR7101369	Healthy Control
+SRR7101370	Healthy Control
+SRR7101374	Healthy Control
+SRR7101377	Healthy Control
+SRR7101378	Healthy Control
+SRR7101379	Healthy Control
+SRR7101380	Healthy Control
+SRR7101384	Healthy Control
+SRR7101385	Healthy Control
+SRR7101386	Healthy Control
+SRR7101391	Healthy Control
+SRR7101392	Healthy Control
+SRR7101393	Healthy Control
+SRR7101394	Healthy Control
+SRR7101397	Healthy Control
+SRR7101398	Healthy Control
+SRR7101399	Healthy Control
+SRR7101400	Healthy Control
+SRR7101401	Healthy Control
+SRR7101403	Healthy Control
+SRR7101406	Healthy Control
+SRR7101407	Healthy Control
+SRR7101408	Healthy Control
+SRR7101409	Healthy Control
+SRR7101410	Healthy Control
+SRR7101413	Healthy Control
+SRR7101414	Healthy Control
+SRR7101415	Healthy Control
+SRR7101417	Healthy Control
+SRR7101418	Healthy Control
+SRR7101419	Healthy Control
+SRR7101420	Healthy Control
+SRR7101421	Healthy Control
+SRR7101422	Healthy Control
+SRR7101423	Healthy Control
+SRR7101425	Healthy Control
+SRR7101429	Healthy Control
+SRR7101430	Healthy Control
+SRR7101431	Healthy Control
+SRR7101432	Healthy Control
+SRR7101433	Healthy Control
+SRR7101434	Healthy Control
+SRR7101435	Healthy Control
+SRR7101436	Healthy Control
+SRR7101437	Healthy Control
+SRR7101438	Healthy Control
+SRR7101440	Healthy Control
+SRR7101441	Healthy Control
+SRR7101442	Healthy Control
+SRR7101443	Healthy Control
+SRR7101448	Healthy Control
+SRR7101449	Healthy Control
+SRR7101450	Healthy Control
+SRR7101451	Healthy Control
+SRR7101453	Healthy Control
+SRR7101454	Healthy Control
+SRR7101455	Healthy Control
+SRR7101456	Healthy Control
+SRR7101457	Healthy Control
+SRR7101458	Healthy Control
+SRR7101459	Healthy Control
+SRR7101465	Healthy Control
+SRR7101466	Healthy Control
+SRR7101467	Healthy Control
+SRR7101468	Healthy Control
+SRR7101469	Healthy Control
+SRR7101473	Healthy Control
+SRR7101474	Healthy Control
+SRR7101475	Healthy Control
+SRR7101476	Healthy Control
+SRR7101478	Healthy Control
+SRR7101479	Healthy Control
+SRR7101480	Healthy Control
+SRR7101481	Healthy Control
+SRR7101483	Healthy Control
+SRR7101484	Healthy Control
+SRR7101485	Healthy Control
+SRR7101486	Healthy Control
+SRR7101487	Healthy Control
+SRR7101488	Healthy Control
+Sample_1S3	Colorectal Cancer Stage 1
+Sample_1S6	Colorectal Cancer Stage 1
+Sample_1S9	Colorectal Cancer Stage 1
+Sample_1S12	Colorectal Cancer Stage 1
+Sample_1S15	Colorectal Cancer Stage 1
+Sample_1S18	Colorectal Cancer Stage 1
+Sample_1S21	Colorectal Cancer Stage 1
+Sample_1S24	Colorectal Cancer Stage 1
+Sample_4S2	Colorectal Cancer Stage 4
+Sample_4S5	Colorectal Cancer Stage 4
+Sample_4S8	Colorectal Cancer Stage 4
+Sample_4S11	Colorectal Cancer Stage 4
+Sample_4S14	Colorectal Cancer Stage 4
+Sample_4S17	Colorectal Cancer Stage 4
+Sample_4S20	Colorectal Cancer Stage 4
+Sample_4S23	Colorectal Cancer Stage 4
+Sample_N1	Healthy Control
+Sample_N7	Healthy Control
+Sample_N13	Healthy Control
+Sample_N19	Healthy Control
+Sample_N25	Healthy Control
+Sample_N31	Healthy Control
+Sample_N37	Healthy Control
+Sample_N43	Healthy Control
+Sample_2S1	Colorectal Cancer Stage 2
+Sample_2S4	Colorectal Cancer Stage 2
+Sample_2S7	Colorectal Cancer Stage 2
+Sample_2S10	Colorectal Cancer Stage 2
+Sample_2S13	Colorectal Cancer Stage 2
+Sample_2S16	Colorectal Cancer Stage 2
+Sample_2S19	Colorectal Cancer Stage 2
+Sample_2S22	Colorectal Cancer Stage 2
+Sample_4S3	Colorectal Cancer Stage 4
+Sample_4S6	Colorectal Cancer Stage 4
+Sample_4S9	Colorectal Cancer Stage 4
+Sample_4S12	Colorectal Cancer Stage 4
+Sample_4S15	Colorectal Cancer Stage 4
+Sample_4S18	Colorectal Cancer Stage 4
+Sample_4S21	Colorectal Cancer Stage 4
+Sample_4S24	Colorectal Cancer Stage 4
+Sample_N2	Healthy Control
+Sample_N8	Healthy Control
+Sample_N14	Healthy Control
+Sample_N20	Healthy Control
+Sample_N26	Healthy Control
+Sample_N32	Healthy Control
+Sample_N38	Healthy Control
+Sample_N44	Healthy Control
+Sample_2S2	Colorectal Cancer Stage 2
+Sample_2S5	Colorectal Cancer Stage 2
+Sample_2S8	Colorectal Cancer Stage 2
+Sample_2S11	Colorectal Cancer Stage 2
+Sample_2S14	Colorectal Cancer Stage 2
+Sample_2S17	Colorectal Cancer Stage 2
+Sample_2S20	Colorectal Cancer Stage 2
+Sample_2S23	Colorectal Cancer Stage 2
+Sample_N3	Healthy Control
+Sample_N9	Healthy Control
+Sample_N15	Healthy Control
+Sample_N21	Healthy Control
+Sample_N27	Healthy Control
+Sample_N33	Healthy Control
+Sample_N39	Healthy Control
+Sample_N45	Healthy Control
+Sample_PC1	Prostate Cancer
+Sample_PC7	Prostate Cancer
+Sample_PC13	Prostate Cancer
+Sample_PC18	Prostate Cancer
+Sample_PC21	Prostate Cancer
+Sample_PC27	Prostate Cancer
+Sample_PC31	Prostate Cancer
+Sample_PC36	Prostate Cancer
+Sample_2S3	Colorectal Cancer Stage 2
+Sample_2S6	Colorectal Cancer Stage 2
+Sample_2S9	Colorectal Cancer Stage 2
+Sample_2S12	Colorectal Cancer Stage 2
+Sample_2S15	Colorectal Cancer Stage 2
+Sample_2S18	Colorectal Cancer Stage 2
+Sample_2S21	Colorectal Cancer Stage 2
+Sample_2S24	Colorectal Cancer Stage 2
+Sample_N4	Healthy Control
+Sample_N10	Healthy Control
+Sample_N16	Healthy Control
+Sample_N22	Healthy Control
+Sample_N28	Healthy Control
+Sample_N34	Healthy Control
+Sample_N40	Healthy Control
+Sample_N46	Healthy Control
+Sample_Pan01	Pancreatic Cancer
+Sample_PC2	Prostate Cancer
+Sample_PC8	Prostate Cancer
+Sample_PC14	Prostate Cancer
+Sample_PC19	Prostate Cancer
+Sample_PC22	Prostate Cancer
+Sample_PC28	Prostate Cancer
+Sample_PC32	Prostate Cancer
+Sample_3S1	Colorectal Cancer Stage 3
+Sample_3S4	Colorectal Cancer Stage 3
+Sample_3S7	Colorectal Cancer Stage 3
+Sample_3S10	Colorectal Cancer Stage 3
+Sample_3S13	Colorectal Cancer Stage 3
+Sample_3S16	Colorectal Cancer Stage 3
+Sample_3S19	Colorectal Cancer Stage 3
+Sample_3S22	Colorectal Cancer Stage 3
+Sample_N5	Healthy Control
+Sample_N11	Healthy Control
+Sample_N17	Healthy Control
+Sample_N23	Healthy Control
+Sample_N29	Healthy Control
+Sample_N35	Healthy Control
+Sample_N41	Healthy Control
+Sample_N47	Healthy Control
+Sample_Pan02	Pancreatic Cancer
+Sample_PC3	Prostate Cancer
+Sample_PC9	Prostate Cancer
+Sample_PC15	Prostate Cancer
+Sample_PC20	Prostate Cancer
+Sample_PC23	Prostate Cancer
+Sample_PC29	Prostate Cancer
+Sample_PC33	Prostate Cancer
+Sample_2S25	Colorectal Cancer Stage 2
+Sample_3S2	Colorectal Cancer Stage 3
+Sample_3S5	Colorectal Cancer Stage 3
+Sample_3S8	Colorectal Cancer Stage 3
+Sample_3S11	Colorectal Cancer Stage 3
+Sample_3S14	Colorectal Cancer Stage 3
+Sample_3S17	Colorectal Cancer Stage 3
+Sample_3S20	Colorectal Cancer Stage 3
+Sample_3S23	Colorectal Cancer Stage 3
+Sample_N6	Healthy Control
+Sample_N12	Healthy Control
+Sample_N18	Healthy Control
+Sample_N24	Healthy Control
+Sample_N30	Healthy Control
+Sample_N36	Healthy Control
+Sample_N42	Healthy Control
+Sample_N48	Healthy Control
+Sample_Pan03	Pancreatic Cancer
+Sample_PC4	Prostate Cancer
+Sample_PC10	Prostate Cancer
+Sample_PC16	Prostate Cancer
+Sample_PC24	Prostate Cancer
+Sample_PC30	Prostate Cancer
+Sample_PC34	Prostate Cancer
+Sample_1S1	Colorectal Cancer Stage 1
+Sample_1S4	Colorectal Cancer Stage 1
+Sample_1S7	Colorectal Cancer Stage 1
+Sample_1S10	Colorectal Cancer Stage 1
+Sample_1S13	Colorectal Cancer Stage 1
+Sample_1S16	Colorectal Cancer Stage 1
+Sample_1S19	Colorectal Cancer Stage 1
+Sample_1S22	Colorectal Cancer Stage 1
+Sample_3S3	Colorectal Cancer Stage 3
+Sample_3S6	Colorectal Cancer Stage 3
+Sample_3S9	Colorectal Cancer Stage 3
+Sample_3S12	Colorectal Cancer Stage 3
+Sample_3S15	Colorectal Cancer Stage 3
+Sample_3S18	Colorectal Cancer Stage 3
+Sample_3S21	Colorectal Cancer Stage 3
+Sample_3S24	Colorectal Cancer Stage 3
+Sample_3S25	Colorectal Cancer Stage 3
+Sample_N50	Healthy Control
+Sample_Pan04	Pancreatic Cancer
+Sample_PC5	Prostate Cancer
+Sample_PC11	Prostate Cancer
+Sample_PC17	Prostate Cancer
+Sample_PC25	Prostate Cancer
+Sample_PC35	Prostate Cancer
+Sample_1S2	Colorectal Cancer Stage 1
+Sample_1S5	Colorectal Cancer Stage 1
+Sample_1S8	Colorectal Cancer Stage 1
+Sample_1S11	Colorectal Cancer Stage 1
+Sample_1S14	Colorectal Cancer Stage 1
+Sample_1S17	Colorectal Cancer Stage 1
+Sample_1S20	Colorectal Cancer Stage 1
+Sample_1S23	Colorectal Cancer Stage 1
+Sample_1S25	Colorectal Cancer Stage 1
+Sample_4S1	Colorectal Cancer Stage 4
+Sample_4S4	Colorectal Cancer Stage 4
+Sample_4S7	Colorectal Cancer Stage 4
+Sample_4S10	Colorectal Cancer Stage 4
+Sample_4S13	Colorectal Cancer Stage 4
+Sample_4S16	Colorectal Cancer Stage 4
+Sample_4S19	Colorectal Cancer Stage 4
+Sample_4S22	Colorectal Cancer Stage 4
+Sample_4S25	Colorectal Cancer Stage 4
+Sample_N49	Healthy Control
+Sample_Pan05	Pancreatic Cancer
+Sample_Pan06	Pancreatic Cancer
+Sample_PC6	Prostate Cancer
+Sample_PC12	Prostate Cancer
+Sample_PC26	Prostate Cancer
